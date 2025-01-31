@@ -52,6 +52,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayur-007S&show_icons=true&locale=en" alt="tomnemec" /></p>
 
-<p><img src="https://streak-stats.demolab.com/?user=Mayur-007S)(https://git.io/streak-stats)"/></p>
+<p>&nbsp;<img src="https://streak-stats.demolab.com/?user=Mayur-007S)(https://git.io/streak-stats)"/></p>
 
 
